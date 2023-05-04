@@ -91,7 +91,7 @@ def deleteNode(root, key):
 
 
 # ***************************************************
-# *  FUNCTION  numTwoChildrenNodes :
+# *  FUNCTION  printNode :
 # *    Recursive function to print BST in descending order
 # *  INPUT PARAMETERS :
 # *    root - current node
@@ -108,7 +108,7 @@ def printNode(root):
 
 
 # ***************************************************
-# *  FUNCTION  numTwoChildrenNodes :
+# *  FUNCTION  numLeaves :
 # *    Recursive function to count number of leaf nodes in BST
 # *  INPUT PARAMETERS :
 # *    root - current node
@@ -125,7 +125,7 @@ def numLeaves(root):
 
 
 # ***************************************************
-# *  FUNCTION  numTwoChildrenNodes :
+# *  FUNCTION  numOneChildNodes :
 # *    Recursive function to count number of one child nodes in BST
 # *  INPUT PARAMETERS :
 # *    root - current node
